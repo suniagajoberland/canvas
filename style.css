@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin: 20px 0;
+}
+
+canvas {
+  border: 1px solid black;
+  cursor: crosshair;
+}
+
+div {
+  text-align: center;
+}
